@@ -1,3 +1,5 @@
+clone new test 7
+
 dev new branch
 
 dev stash add
