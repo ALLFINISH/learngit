@@ -1,6 +1,18 @@
 clone new test 7
 
 dev new branch
+test stash 5
+
+test stash 6
+
+test 4
+
+test stash
+
+test
+
+test1
+
 
 dev stash add
 
